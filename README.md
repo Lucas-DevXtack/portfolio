@@ -54,4 +54,18 @@ Manipulação de DOM
 
 Estrutura modular simples
 
-Organização de scripts externos
+Organização de scripts externo  s
+
+
+Disponível para visualização em: https://lucas-devxtack.github.io/portfolio/
+
+
+
+
+
+
+
+
+
+
+
