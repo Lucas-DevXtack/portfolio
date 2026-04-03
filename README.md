@@ -12,12 +12,11 @@ JavaScript (interações e comportamento dinâmico)
 Estrutura do Projeto:
 
 Portfólio/
-|
-|_ index.html        # Estrutura principal da aplicação
-|_ styles.css        # Estilização global do site
-|_ script.js         # Comportamentos e interações
-|_ macman.png        # Imagem de fundo
-|_ my file.jpg       # Imagem de perfil
+index.html      Estrutura principal daa aplicação
+styles.css      Estilização global do site
+script.js       Comportamentos e interações
+macman.png      Imagem de fundo
+my file.jpg     Imagem de perfil
 
 
 Conceitos Aplicados:
