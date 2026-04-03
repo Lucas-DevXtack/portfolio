@@ -1,17 +1,13 @@
 Portfólio Pessoal – Desenvolvedor Full Stack
-Visão Geral
 
 Este projeto é um site de portfólio pessoal desenvolvido com foco em apresentação profissional, organização visual e código
-limpo. O objetivo é demonstrar habilidades em desenvolvimento front-end utilizando HTML, CSS e JavaScript puro, sem
-dependência de frameworks externos.
-
+limpo. O objetivo é demonstrar habilidades em desenvolvimento front-end utilizando HTML, CSS e JavaScript puro, sem dependência de frameworks externos.
 
 Tecnologias Utilizadas:
 
 HTML5 (estrutura semântica)
 CSS3 (layout responsivo, efeitos visuais e estilização moderna)
 JavaScript (interações e comportamento dinâmico)
-
 
 Estrutura do Projeto:
 
