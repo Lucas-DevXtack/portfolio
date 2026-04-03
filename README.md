@@ -13,9 +13,13 @@ Estrutura do Projeto:
 
 Portfólio/
 index.html      Estrutura principal daa aplicação
+
 styles.css      Estilização global do site
+
 script.js       Comportamentos e interações
+
 macman.png      Imagem de fundo
+
 my file.jpg     Imagem de perfil
 
 
